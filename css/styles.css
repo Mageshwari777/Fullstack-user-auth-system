@@ -1,0 +1,19 @@
+/**
+ * Global styles for the project.
+ * Keep CSS separate from HTML/JS as required.
+ */
+
+body {
+  background: #f8f9fa;
+}
+
+.card {
+  border: 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.app-brand {
+  font-weight: 700;
+  letter-spacing: 0.4px;
+}
+
