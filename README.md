@@ -1,10 +1,19 @@
 # 🔐 User Authentication System (Register → Login → Profile)
 
+## 📸 Screenshots
 
+### 🔐 Login Page
+<img width="1902" height="1023" alt="Screenshot 2026-03-28 095237" src="https://github.com/user-attachments/assets/82c75092-0fc2-40b6-b573-ec642be33f9f" />
+
+### 📝 Register Page
+<img width="1907" height="1018" alt="Screenshot 2026-03-28 095217" src="https://github.com/user-attachments/assets/337e6614-c9dc-4ca0-b42f-87610c2fcba0" />
+
+### 👤 Profile Page
+<img width="1910" height="1014" alt="Screenshot 2026-03-28 095120" src="https://github.com/user-attachments/assets/7738c97d-a972-45b4-a15f-6d20da299408" />
 
 ## 🚀 Features
 
-* User Registration
+
 * Secure Login System
 * Session Management using Redis
 * Profile Management using MongoDB
