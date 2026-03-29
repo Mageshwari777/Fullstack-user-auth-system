@@ -2,10 +2,10 @@
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
+### 🔐 Register Page
 <img width="1902" height="1023" alt="Screenshot 2026-03-28 095237" src="https://github.com/user-attachments/assets/82c75092-0fc2-40b6-b573-ec642be33f9f" />
 
-### 📝 Register Page
+### 📝 Login Page
 <img width="1907" height="1018" alt="Screenshot 2026-03-28 095217" src="https://github.com/user-attachments/assets/337e6614-c9dc-4ca0-b42f-87610c2fcba0" />
 
 ### 👤 Profile Page
